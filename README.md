@@ -1,5 +1,3 @@
-İşte doğrudan GitHub'daki README.md dosyana kopyalayıp yapıştırabileceğin, bir yazılım mühendisinin portfolyosuna yakışacak kadar profesyonel ve teknik bir dille yeniden düzenlenmiş proje özeti:
-
 🤖 Otonom AI Test Otomasyonu: Spotify QA Botu
 Bu proje, tamamen yerel donanım üzerinde çalışan büyük dil modelleri (LLM) ve yapay zeka ajanları kullanılarak, insan müdahalesi olmadan web tabanlı yazılım testleri (QA) oluşturmak ve otomatize etmek amacıyla geliştirilmiştir.
 
